@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sharvilbhalke
-- 👀 I’m interested in -learning new technologies.
-- 🌱 I’m currently learning python
-- 📫 How to reach me - instagram- @sharvilbhake
+- 👀 I’m interested in -learning new technologies such as Blockchain Development.
+- 🌱 I’m know Python and Solidity
+- 📫 How to reach me - Twitter - @BhalkeSharvil
 
 <!---
 Sharvilbhalke/Sharvilbhalke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
