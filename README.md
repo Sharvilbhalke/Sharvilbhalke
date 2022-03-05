@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sharvilbhalke
 - 👀 I’m interested in -learning new technologies such as Blockchain Development.
-- 🌱 I’m know Python and Solidity
+- 🌱 I know Python and Solidity
 - 📫 How to reach me - Twitter - @BhalkeSharvil
 
 <!---
